@@ -1,0 +1,42 @@
+{
+  "profile":{
+    "images":"images/pubg.jpg",
+    "name":"Dinu",
+    "design":"pubg player",
+    "mobile":"9177197604",
+    "email":"dinakardinu7604@gmail.com"
+  },
+  "careear":{
+    "info":"to get chicken dinner"
+  },
+  "Educationdetails":
+  [{
+    "Qualifications":"BTech",
+    "institute":"mits",
+    "percen":"80%",
+    "yop":2021
+
+  },
+  {
+    "Qualifications":"+2",
+    "institute":"scjc",
+    "percen":"70%",
+    "yop":"2017"
+  },
+  {
+    "Qualifications":"ssc",
+    "institute":"mits",
+    "percen":"90%"
+  }
+],
+"Skills":[
+{
+  "name":"web technologies",
+  "info":["HTML","CSS","JS"]
+},
+{
+  "name":"database",
+  "info":["jdbc","sql","firebase"]
+}
+]
+}
